@@ -1,6 +1,6 @@
 # Nestor Garcia
 
-Senior engineer building useful software from requirements through production.
+I build useful software from requirements through production.
 
 I bring eight years of corporate engineering experience, a background in desktop applications and modern frameworks, and hands-on ownership of independent products. I work directly with users to understand their workflows, translate requirements into software, and support what I ship.
 

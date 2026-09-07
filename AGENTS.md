@@ -10,4 +10,5 @@ This repository is public-facing. Keep content factual, concise, and useful to s
 - Dinaryo reconciles money; it does not process payments. Business volumes are approximate and business-reported, not product revenue.
 - No invented performance, uptime, customer, defect, or adoption claims.
 - Preserve the user's professional experience alongside independent projects.
+- Do not publish a job level (Senior, Staff, Principal, and similar). Describe the work, years of experience, and ownership so the copy stays accurate if the title changes.
 - Before publication, review the exact staged files and their history. Git ignore rules do not make tracked content private.
