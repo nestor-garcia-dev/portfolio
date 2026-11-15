@@ -8,7 +8,7 @@ I use AI coding agents throughout development. My responsibility is the engineer
 
 ## Selected work
 
-### [Dinaryo](https://github.com/nestor-garcia-dev/dinaryo-case-study)
+### Dinaryo
 
 **Production · Business money management and reconciliation · Private source**
 
@@ -18,7 +18,7 @@ I partnered with the business on requirements and own development, hosting, rele
 
 **Built with:** Angular, NestJS, PostgreSQL, AWS, Terraform, and Nx.
 
-[Read the case study](https://github.com/nestor-garcia-dev/dinaryo-case-study) · [Explore the architecture](https://github.com/nestor-garcia-dev/dinaryo-case-study/blob/main/ARCHITECTURE.md)
+_Public write-up coming soon._
 
 ### [Scalewing](https://github.com/nestor-garcia-dev/scalewing)
 
