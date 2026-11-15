@@ -2,7 +2,7 @@
 
 I build useful software from requirements through production.
 
-I bring eight years of corporate engineering experience, a background in desktop applications and modern frameworks, and hands-on ownership of independent products. I work directly with users to understand their workflows, translate requirements into software, and support what I ship.
+I bring corporate engineering experience, a background in desktop applications and modern frameworks, and hands-on ownership of independent products. I work directly with users to understand their workflows, translate requirements into software, and support what I ship.
 
 I use AI coding agents throughout development. My responsibility is the engineering judgment around that work: requirements, architecture, reviewing changes, validation, releases, and ongoing operations.
 
@@ -35,7 +35,7 @@ The repository includes an interactive local gallery, automated checks, and docu
 ## What I bring
 
 - **Product ownership:** working with a business from requirements through ongoing production support.
-- **Desktop and application engineering:** eight years of professional experience alongside independent web and cross-platform projects.
+- **Desktop and application engineering:** professional engineering experience alongside independent web and cross-platform projects.
 - **Maintainable systems:** explicit module boundaries, reusable components, and testable business rules.
 - **AI-assisted delivery:** using coding agents while owning the decisions and verification behind the result.
 
